@@ -1,2 +1,2 @@
 # learngit
-this repo is just for me to lrean github
+this repo is just for me to lrean git
